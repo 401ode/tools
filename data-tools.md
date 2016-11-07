@@ -6,4 +6,4 @@
 
 ### Data Mapping
 - [YWorks](https://www.yworks.com/products/yed)
-- [hThe Brain](ttp://www.thebrain.com/)
+- [The Brain](http://www.thebrain.com/)
