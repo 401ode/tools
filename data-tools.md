@@ -1,17 +1,13 @@
 # Data Tools
 
-- [Transformy](https://www.transformy.io/#/)
-- [Datazar](https://www.datazar.com)
+# Data Quality Tools
 - [Open Refine](http://openrefine.org/) - Great data cleanup platform.
-- [Diggernaut](https://www.diggernaut.com/) - Web scraping service.
 
-# Data Mapping
-- [YWorks](https://www.yworks.com/products/yed)
-- [The Brain](http://www.thebrain.com/)
-- [Orange]()
+
 
 # Python-based Tools
-- [Pandas](http://pandas.pydata.org/) - included with [Anaconda](https://www.continuum.io/downloads) distribution. Gold Standard for Data Analysis, Data Science.
+- [Pandas](http://pandas.pydata.org/) - included with [Anaconda](https://www.continuum.io/downloads) distribution. Gold Standard for Data Analysis, Data Science. 
+    + [Pandas Tutorial]
 - [Dask](https://dask.pydata.org/en/latest/) - For when your Pandas DataFrames get too enormous for Pandas. 
 
 # Optical Character Recognition
@@ -24,6 +20,12 @@
 
 We'll be migrating in some from this [list](https://docs.google.com/spreadsheets/d/1zkDKbi144mrDl7NSPMTRKyjdX8qfiL8MSlUw2z_dEIE/edit?usp=drivesdk).
 
+# Generic BI/Reporting Tools
+
+- [Microsoft PowerBI](https://powerbi.microsoft.com)
+- [Jaspersoft Reports]()
+- [Tableau](https://www.tableau.com/) - Desktop version is free, as long as you publish your data/visualization. 
+
 ## Python DataViz Tools
 
 - [MatPlotLib](http://matplotlib.org/) - The original behemoth of DataViz tools. 
@@ -34,3 +36,14 @@ We'll be migrating in some from this [list](https://docs.google.com/spreadsheets
 # ~~Robots~~ Machine Learning
 - [TensorFlow](https://www.tensorflow.org/) - When robots take over the world, this will be the core of their DNA. TensorFlow is the principal Google Artificial Intelligence / Machine Learning library. They open-sourced it a few years ago. It's generally considered the most powerful in the world. There are APIs for Python and tons of other languages now.
 - [Keras](https://keras.io/) - An overall neural network API, but basically it makes interacting with TensorFlow way easier. See this nice [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python).
+
+# Data Mapping
+- [YWorks](https://www.yworks.com/products/yed)
+- [The Brain](http://www.thebrain.com/)
+- [Orange](https://orange.biolab.si/)
+
+# General
+
+- [Transformy](https://www.transformy.io/#/)
+- [Datazar](https://www.datazar.com)
+- [Diggernaut](https://www.diggernaut.com/) - Web scraping service.
