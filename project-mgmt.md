@@ -1,12 +1,28 @@
 # Project Management and Collaboration
 
-### Trello and Power-Ups
+## Trello and Power-Ups
+
 [Trello](http://www.trello.com) is a favorite tool for most of us at ODE. Useful add-ons:
 - Custom Fields
 - Calendar View
 - Elegantt
+- Want data on your Trello boards? Try [OllertApp](https://ollertapp.com/)
 
-### Other Platforms
+## General Collaboration
+
+- [Confluence - State of Rhode Island instance](https://401ode.atlassian.net/wiki/)
+- 
+
+
+## Cloud-Based Spreadsheet Tools
+- [Airtable](https://www.airtable.com)
+- [Fieldbook](https://fieldbook.com/)
+- [Excel Online](https://office.live.com/start/Excel.aspx)
+
+
+## Other Project Management Platforms
+- [Jira (Rhode Island Instance)](https://401ode.atlassian.net/secure/Dashboard.jspa) - get in touch with ODE for a license.
+- [ZenKit](https://zenkit.com) - This might ultimately be the Trello-killer. It's like Airtable + Trello + a chameleon. 
 - [Favro](http://www.favro.com) - Trello competitor.
 - [Podio](http://www.podio.com)
 - [Redbooth](https://redbooth.com/)
@@ -14,13 +30,14 @@
 - [Freedcamp](https://freedcamp.com)
 - [Basecamp](https://basecamp.com/)
 - [Wrike](https://www.wrike.com)
-- [Asana](https://asana.com)
-- [JIRA](https://www.atlassian.com/software/jira)
+- [Asana](https://asana.com) - Used by multiple projects around the State. Some people like it. 
 - [Dapulse](https://dapulse.com)
 - [Accelo](https://www.accelo.com)
 - [Work Otter](http://www.workotter.com/)
 - [StreamTime](https://streamtime.net)
 - [Pivotal Tracker](https://www.pivotaltracker.com/)
-- [Craft](https://craft.io/)
+
+# Roadmap Planners
+- [Craft](https://craft.io/) - Good free plan to get started. Good tools for gathering user feedback. 
 - [Aha.io](http://www.aha.io) - Really good roadmap planner.
-- [ZenKit](https://zenkit.com) - Clean interface, good calendar functionality
+

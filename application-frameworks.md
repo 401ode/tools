@@ -5,6 +5,7 @@ By dominant language:
 
 - [Django](https://www.djangoproject.com/) - Full featured Python-based framework.
 - [Flask](http://flask.pocoo.org/) - Flexible micro-framework.
+- [Pyramid](https://trypyramid.com/) - Haven't used it yet, but it might thread the needle between Flask's minimalism and Django's "batteries included" framework approach. 
 
 
 ### Elm
