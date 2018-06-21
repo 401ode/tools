@@ -15,3 +15,4 @@ Starting with a general list of extensions and then we can categorize later.
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien) - Gives a very cool-looking graph of [GitHub](https://www.github.com) contributions. 
 - [Export for Trello](https://chrome.google.com/webstore/detail/export-for-trello/nhdelomnagopgaealggpgojkhcafhnin) - Take a [Trello](https://trello.com) board, export it to Excel.
 - [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - If you're interacting with JSON, this is a great extension to prettify it/validate it.
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related?hl=en) - Apparently the best ad-blocker there is. 
