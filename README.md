@@ -5,6 +5,7 @@ PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee.
 
 - [Data](data-tools.md)
 - [Development/Programming](Development.md)
+- [Tips and Tricks](tips-tricks.md) - Like Linux Command line tricks, for starters.
 - [Non-Data Python](non-data-python.md)
 - [Application Frameworks](application-frameworks.md)
 - [DevOps Tools](devops.md)
