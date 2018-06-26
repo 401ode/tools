@@ -14,4 +14,5 @@
 - Remove characters on the left, until the beginning of the word: `Ctrl+W`
 - To clear your entire command prompt: `Ctrl + L`
 - Toggle between the start of line and current cursor position: `Ctrl + XX`
-**[Source for the above.](https://stackoverflow.com/a/16687377/5000626)**
+
+*[Source for the above.](https://stackoverflow.com/a/16687377/5000626)*
