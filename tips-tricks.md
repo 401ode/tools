@@ -29,7 +29,7 @@ If you're in a given directory, typing `ls` will give you a list of the non-hidd
 - `ls -a` will show all files, including the hidden ones. 
 - `ls -l` will show detailed information about the files, like when it was last modified, who owns it, what permissions it has, etc. 
 - `ls -lh` will show the filesizes of the file in a human-readable format, like 1.2MB, 3.7K, etc.
-- 'ls -lah' will do all three, of course. 
+- `ls -lah` will do all three, of course. 
 
 Not surprisingly, `find` is the most powerful command to find stuff in Linux. Good things to remember: 
 - `find . -type d` - looks in the current directory ( represented by `.`) and finds things of type `d`, which are directories. 
