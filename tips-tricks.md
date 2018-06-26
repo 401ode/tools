@@ -36,7 +36,14 @@ Not surprisingly, `find` is the most powerful command to find stuff in Linux. Go
 - `find . -name blah` - looks in the current directory for files named blah.
 
 #### Grep(ping)
-`grep` is one of the most powerfully badass commands in the world. Literally books have been written about it. But basically it will look, recursively if you want it to, into all the files in a given directory 
+`grep` is one of the most powerfully badass commands in the world. Literally books have been written about it. But basically it will look, recursively if you want it to, into all the files in a given directory for some Regular Expression (see below) pattern that you define. So if you want to see every `.log` file that has `error` in it, you would run `grep "error" *.log`. Running that in this directory gets you this: 
+
+```bash
+user@coolbox /dev/401ode/tools grep error *.md
+tips-tricks.md:`grep` is one of the most powerfully badass commands in the world. Literally books have been written about it. But basically it will look, recursively if you want it to, into all the files in a given directory for some Regular Expression (see below) pattern that you define. So if you want to see every `.log` file that has `error` in it, you would run `grep "error" *.log`. Running that in this directory gets you this:
+
+```
+
 
 ## (Reg)ular (Ex)pressions (RegEx)
 - `^` - Start of a line
