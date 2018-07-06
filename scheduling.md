@@ -1,6 +1,6 @@
 # Scheduling and Reservation Tools
 
-For a November 2017 overview, see this [Zapier Blog Post](https://zapier.com/blog/best-appointment-scheduling-apps/)  comparing many different options.
+For a November 2017 overview, see this [Zapier Blog Post](https://zapier.com/blog/best-appointment-scheduling-apps/)  comparing many different options. Also, Hubspot has [a good overview](https://blog.hubspot.com/agency/meeting-scheduler-tools) from their blog updated in January 2018.
 
 - [Plann3r](https://plann3r.com/)
 - [TimeTrade](https://www.timetrade.com/)
