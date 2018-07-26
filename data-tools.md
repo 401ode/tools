@@ -22,7 +22,7 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 
 # Generic BI/Reporting Tools
 
-- [Microsoft PowerBI](https://powerbi.microsoft.com)
+- [Microsoft PowerBI](https://powerbi.microsoft.com) - For a Microsoft tool, this is surprisingly good, stable, extendable, and easy to use. I can't believe I just wrote that.
 - [Jaspersoft Reports]()
 - [Tableau](https://www.tableau.com/) - Desktop version is free, as long as you publish your data/visualization.
 
