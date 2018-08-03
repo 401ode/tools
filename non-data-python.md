@@ -21,6 +21,8 @@ for link in odetoolsoup.find_all('a'):
 # http://example.com/shawn
 ```
 
+- [Scrapy](https://scrapy.org/) - An alternative to everything I just wrote above, this package is designed to 
+
 ## Code Formatting
 
 - Less a tool, but more of the Bible for how to format/style Python code is [PEP8](https://www.python.org/dev/peps/pep-0008/?). *PEP* stands for *Python Enhancement Proposal*. This particular PEP was written by the creator of Python himself, [Guido van Rossum](https://gvanrossum.github.io/). In it, he makes the point that "code is read much more often than it is written." As such, code should be readable by humans.
