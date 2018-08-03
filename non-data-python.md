@@ -21,7 +21,7 @@ for link in odetoolsoup.find_all('a'):
 # http://example.com/shawn
 ```
 
-- [Scrapy](https://scrapy.org/) - An alternative to everything I just wrote above, this package is designed to 
+- [Scrapy](https://scrapy.org/) - An alternative to everything I just wrote above, this package is designed to intelligently scrape whatever site you point it at. Seems super-promising.
 
 ## Code Formatting
 
