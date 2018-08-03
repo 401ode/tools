@@ -4,6 +4,7 @@
 
 - [Krita](https://krita.org/en/) - Open-source painting program. Pretty slick and developing a big following.
 - [GIMP](https://www.gimp.org/) - Or GNU Image Manipulation Program. Photoshop if it were designed by Linux engineers. Always been an ugly interface, but it has lots of power.
+- See [Non-Data Python](non-data-python.md) for info on Pillow, a Python image manipulation library. Good stuff.
 
 
 ## Vector Graphics

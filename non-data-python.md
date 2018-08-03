@@ -30,6 +30,9 @@ for link in odetoolsoup.find_all('a'):
 - [iSort](https://pypi.org/project/isort/) - Will intelligently and elegantly sort your module imports at the top of your .py file. Compatible with Black.
 
 
+## Image Manipulation
+
+- [Pillow](https://pillow.readthedocs.io/en/5.2.x/) - A fork of an old-school, but incredibly powerful, project called Python Imaging Library or PIL, this is much easier to use and just as powerful. 
 
 ## Reference
 
