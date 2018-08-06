@@ -53,3 +53,8 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 - [Transformy](https://www.transformy.io/#/)
 - [Datazar](https://www.datazar.com)
 - [Diggernaut](https://www.diggernaut.com/) - Web scraping service.
+
+# Text / Document Manipulation Tools
+
+- [Pandoc](http://www.pandoc.org) - Amazing command line tool for converting documents between many different formats. For example, if you want to change a Word doc to a markdown file, you would run `pandoc -f docx -t markdown -o outputmarkdownfile.md sourcedocument.docx`.
+- [Tabula](https://tabula.technology/) - Amazing tool for extracting tabular data out of PDFs. Works like a charm, pretty much every time. 
