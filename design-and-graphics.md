@@ -6,6 +6,9 @@
 - [GIMP](https://www.gimp.org/) - Or GNU Image Manipulation Program. Photoshop if it were designed by Linux engineers. Always been an ugly interface, but it has lots of power.
 - See [Non-Data Python](non-data-python.md) for info on Pillow, a Python image manipulation library. Good stuff.
 
+## Stock Photos
+
+- [Unsplash](https://unsplash.com/) - "Beautiful, free photos. Gifted by the world’s most generous community of photographers."
 
 ## Vector Graphics
 
