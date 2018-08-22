@@ -18,4 +18,5 @@ PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee.
 - [Cloud](cloud.md) - also needs a lot of work. Some overlap with Enterprise, of course.
 - [Windows](windows.md)
 - [Writing](writing.md)
+- [Training and Education](training.md)
 - [Principles and Methodologies](principles-methodologies.md)
