@@ -2,6 +2,10 @@
 
 It's no secret that one of the writers (@bmcguirk) of this repository likes [Python](http://www.python.org). He wants you to, as well, because it has actively improved his life since he started learning it. We also need more people in State government fluent in this kind of thing. 
 
+## Training
+
+- [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - Really pretty comprehensive. Also difficult.
+
 ## Web / HTML
 
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML Parsing made super easy. But it needs to be fed HTML. You could use Python's built-in `urllib` or `httplib`, but what you really want to use is...
