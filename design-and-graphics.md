@@ -21,6 +21,7 @@
 
 ## Video
 
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - To quote [Engadget](https://www.engadget.com/2018/08/22/davinci-resolve-15-free-hollywood-video-editor-review/), "DaVinci Resolve 15 is a free, Hollywood-grade video editor." Incredibly powerful stuff. I kinda can't believe how much is in the free version.
 - [AutoEdit](http://www.autoedit.io/) - Interesting concept. This thing will automatically generate a transcript of your video, then allow you to make selections from the transcript. The selections you make can be exported to be stitched together into a proper video. Apparently cuts down the video editing process immensely.
 
 
