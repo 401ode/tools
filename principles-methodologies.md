@@ -1,5 +1,24 @@
 # Principles and Methodologies
 
+## Project Management
+
+### Agile
+
+We could write a book. And many have. But in the meantime, know this: Agile is provably a better way to run proejcts, build software. 
+
+TODO: Linkfest. Or a separate .md page just on Agile.
+
+
+
+## Collaboration
+
+### Brainstorming, Idea Generation
+
+- [Liberating Structures](http://www.liberatingstructures.com/) - "a menu of thirty-three... Structures to replace or complement conventional practices. Liberating Structures used routinely make it possible to build the kind of organization that everybody wants. They are designed to include everyone in shaping next steps." Cool stuff. We should use this more often and in more contexts.
+
+
+## Software Design
+
 ### [Twelve-Factor Apps](https://12factor.net/)
 - I. Codebase
     One codebase tracked in revision control, many deploys
