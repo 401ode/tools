@@ -17,6 +17,7 @@
 ## Prototyping
 
 - [MockFlow](https://mockflow.com) - Pretty easy to use wireframing/prototyping tool. Good if limited free plan. 
+- [Figma](https://www.figma.com) - Doesn't have UI components built-in like MockFlow, but for making quick drawings, sharing them with team members, and having everything sync beautifully online/offline, it's really pretty good. 
 - [Atomic](https://atomic.io)
 - [Comparison from the Vox Product Team](https://product.voxmedia.com/2017/11/1/16562200/a-highly-subjective-guide-to-design-prototyping-tools) that's pretty useful.
 
