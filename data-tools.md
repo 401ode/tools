@@ -9,6 +9,7 @@
 - [Numba - The need for speed without bothering too much](https://nbviewer.jupyter.org/github/akittas/presentations/blob/master/pythess/numba/numba.ipynb?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly#The-need-for-speed-without-bothering-too-much:-An-introduction-to-numba) - These guys are genius. They basically made it super-simple to radically increase the speed of what you're doing in Pandas or Numpy arrays (which is what Pandas uses under the hood). Very excited about this. Basically if you tell it about a specific function or thing you're trying to do, it'll compile to low-level C-code. Some average improvements by adding **one line of code** are around **78 times faster.** Awesome. 
 - [Dask](https://dask.pydata.org/en/latest/) - Rather than load your enormous Pandas Dataframe into memory, Dask takes kind of a streaming approach to process iteratively but more efficiently for large datasets. 
 
+
 ## Python Tutorials
 
 - While we may compile our own list at some point, [this](https://nealcaren.github.io/python-tutorials/) is a fantastic compendium of available Python data-science tutorials.
@@ -52,6 +53,8 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 
 - [Open Refine](http://openrefine.org/) - Great data cleanup platform.
 - [Talend Data Preparation (Free Desktop Edition)](https://www.talend.com/products/data-preparation/) - Good GUI tool to analyze and clean data.
+- - [Dora](https://github.com/NathanEpstein/Dora) - "Dora is a Python library designed to automate the painful parts of exploratory data analysis.The library contains convenience functions for data cleaning, feature selection & extraction, visualization, partitioning data for model validation, and versioning transformations of data."
+- [Scrubadub](https://scrubadub.readthedocs.io/en/stable/index.html) - Automatically removes sensitive data (PII, etc.) from datasets.
 
 
 ## General
