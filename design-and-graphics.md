@@ -16,6 +16,7 @@
 
 ## Prototyping
 
+- [Canva](https://www.canva.com) - Collaborative group desgin and brand editor.
 - [MockFlow](https://mockflow.com) - Pretty easy to use wireframing/prototyping tool. Good if limited free plan (only 3 mockups allowed). 
 - [Figma](https://www.figma.com) - Doesn't have UI components built-in like MockFlow, but for making quick drawings, sharing them with team members, and having everything sync beautifully online/offline, it's really pretty good. 
 - [Pencil Project](https://pencil.evolus.vn/) - Undergoing a major overhaul to make it a more modern system. Supposedly quite robust. 
