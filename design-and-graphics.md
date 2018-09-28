@@ -23,6 +23,10 @@
 - [Atomic](https://atomic.io)
 - [Comparison from the Vox Product Team](https://product.voxmedia.com/2017/11/1/16562200/a-highly-subjective-guide-to-design-prototyping-tools) that's pretty useful.
 
+## Flowcharts
+
+- [Coggle](https://coggle.it/flowcharts) - An offshoot of a mindmapping tool, this is a well-designed, easy-to-use flowchart tool. Nice free plan: 3 private flowcharts, unlimited public ones.
+
 ## Video
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - To quote [Engadget](https://www.engadget.com/2018/08/22/davinci-resolve-15-free-hollywood-video-editor-review/), "DaVinci Resolve 15 is a free, Hollywood-grade video editor." Incredibly powerful stuff. I kinda can't believe how much is in the free version.
