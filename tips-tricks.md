@@ -36,7 +36,7 @@ Not surprisingly, `find` is the most powerful command to find stuff in Linux. Go
 - `find . -name blah` - looks in the current directory for files named blah.
 
 #### Grep(ping)
-`grep` is one of the most powerfully badass commands in the world. Literally books have been written about it. But basically it will look, recursively if you want it to, into all the files in a given directory for some Regular Expression (see below) pattern that you define. So if you want to see every `.log` file that has `error` in it, you would run `grep "error" *.log`. Running that in this directory gets you this: 
+`grep` is one of the most powerfully badass commands in the world. Literally books have been written about it. But basically it will look, recursively if you want it to, into all the files in a given directory for some Regular Expression (see below) pattern that you define. So if you want to see every `.log` file that has `error` in it, you would run `grep "error" *.log`. Running that in this directory gets you this:
 
 ```bash
 user@coolbox /dev/401ode/tools grep error *.md
@@ -44,8 +44,19 @@ tips-tricks.md:`grep` is one of the most powerfully badass commands in the world
 
 ```
 
+#### Getting strings from dirty files
+
+[`strings`](https://linux.die.net/man/1/strings) is a nifty tool to read a file and spit out only the legible characters within. At least four of them in a row, followed by some unprintable character. Helps to cut the wheat from the chaff. Example from PicoCTF 2018:
+
+```bash
+user@pico-2018-shell-2:/problems/strings_2_b7404a3aee308619cb2ba79677989960$ strings strings | grep pico
+picoCTF{sTrIngS_sAVeS_Time_3f712a28}
+user@pico-2018-shell-2:/problems/strings_2_b7404a3aee308619cb2ba79677989960$
+```
+
 
 ## (Reg)ular (Ex)pressions (RegEx)
+
 - `^` - Start of a line
 - `$` - End of a line
 - `\s` - A Whitespace character. 
