@@ -18,7 +18,7 @@
 ## Containers
 
 - [Vagrant](http://www.vagrantup.com) - easy to spin up virtual machines, configurable via simple YAML files.
-- [Docker](https://www.docker.com) - THE base container technology. Easy to configure, stitch together, and lock down. Preferable these days to Vagrant.
+- [Docker](https://www.docker.com) - **THE** base container technology. Easy to configure, stitch together, and lock down. Preferable these days to Vagrant.
     + This is the official Docker tutorial. 
     + [Just enough Docker to be Dangerous](http://seankross.com/2017/09/17/Enough-Docker-to-be-Dangerous.html) is a good intro tutorial, as well, by Sean Kross. 
 - [Kubernetes](https://kubernetes.io/) - The industry-standard way to scale out and coordinate tons of Docker images working together. Kind of amazing, really.
