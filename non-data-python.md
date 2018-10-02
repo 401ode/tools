@@ -8,8 +8,8 @@ It's no secret that one of the writers (@bmcguirk) of this repository likes [Pyt
 
 ## Web / HTML
 
-- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) - HTML Parsing made super easy. But it needs to be fed HTML. You could use Python's built-in `urllib` or `httplib`, but what you really want to use is...
-- [Requests](http://docs.python-requests.org/en/master/), which describes itself as "HTTP for Humans." From like 8 lines of code to go grab the content of a website, you just `import requests` and then `requests.get('https://github.com/401ode/tools`. Now the whole content of that request is an a Pythonic object, which you can then feed to BeautifulSoup to parse and do whatever you want with. Like if you want to get all the links out of a given page, you just do: 
+- [`BeautifulSoup`](https://www.crummy.com/software/BeautifulSoup/) - HTML Parsing made super easy. But it needs to be fed HTML. You could use Python's built-in `urllib` or `httplib`, but what you really want to use is...
+- [`requests`](http://docs.python-requests.org/en/master/), which describes itself as "HTTP for Humans." From like 8 lines of code to go grab the content of a website, you just `import requests` and then `requests.get('https://github.com/401ode/tools`. Now the whole content of that request is an a Pythonic object, which you can then feed to BeautifulSoup to parse and do whatever you want with. Like if you want to get all the links out of a given page, you just do: 
 
 ```python
 import requests
@@ -25,18 +25,26 @@ for link in odetoolsoup.find_all('a'):
 # http://example.com/shawn
 ```
 
-- [Scrapy](https://scrapy.org/) - An alternative to everything I just wrote above, this package is designed to intelligently scrape whatever site you point it at. Seems super-promising.
+- [`Scrapy`](https://scrapy.org/) - An alternative to everything I just wrote above, this package is designed to intelligently scrape whatever site you point it at. Seems super-promising.
 
 ## Code Formatting
 
 - Less a tool, but more of the Bible for how to format/style Python code is [PEP8](https://www.python.org/dev/peps/pep-0008/?). *PEP* stands for *Python Enhancement Proposal*. This particular PEP was written by the creator of Python himself, [Guido van Rossum](https://gvanrossum.github.io/). In it, he makes the point that "code is read much more often than it is written." As such, code should be readable by humans.
+- [`yapf`](https://github.com/google/yapf) - Google's opinionated code-formatter. To wit: 'Most of the current formatters for Python --- e.g., `autopep8`, and `pep8ify` --- are made to remove lint errors from code. This has some obvious limitations. For instance, code that conforms to the PEP 8 guidelines may not be reformatted. But it doesn't mean that the code looks good... YAPF takes a different approach. It's based off of `clang-format`, developed by Daniel Jasper. In essence, the algorithm takes the code and reformats it to the best formatting that conforms to the style guide, even if the original code didn't violate the style guide. The idea is also similar to the `gofmt` tool for the Go programming language: end all holy wars about formatting...'
 - [Black](https://github.com/ambv/black) is an extremely-opinionated code formatter. To quote the project's site, "*Black* reformats entire files in place. It is not configurable. It doesn’t take previous formatting into account." But it's actually got a great aesthetic taste. Worth your time. Also has plugins to autoformat your code in a bunch of different editors.
 - [iSort](https://pypi.org/project/isort/) - Will intelligently and elegantly sort your module imports at the top of your .py file. Compatible with Black.
 
 
 ## Image Manipulation
 
-- [Pillow](https://pillow.readthedocs.io/en/5.2.x/) - A fork of an old-school, but incredibly powerful, project called Python Imaging Library or PIL, this is much easier to use and just as powerful. 
+- [`pillow`](https://pillow.readthedocs.io/en/5.2.x/) - A fork of an old-school, but incredibly powerful, project called Python Imaging Library or PIL, this is much easier to use and just as powerful.
+
+## Cool Built-In Modules
+
+- [`re`](https://docs.python.org/3/library/re.html) - Excellent and flexible use of regular expressions. 
+- [`collections`](https://docs.python.org/3/library/collections.html) - A bunch of different collectio objects. New favorite one is [Counter](https://docs.python.org/3/library/collections.html#collections.Counter), where you can feed in elements and it'll keep track of how frequently they are used.
+- [`random`](https://docs.python.org/3/library/random.html) - "This module implements pseudo-random number generators for various distributions." They note, however, that "the pseudo-random generators of this module should not be used for security purposes. For security or cryptographic uses, see the [`secrets`](https://docs.python.org/3/library/secrets.html#module-secrets) module."
+
 
 ## Reference
 
