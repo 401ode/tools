@@ -38,6 +38,8 @@
 
 # Load Balancing
 
+- [Katran](https://github.com/facebookincubator/katran) - a tier 3 load balancer that is, apparently, blazingly fast.
+
 # Telephony
 
 # Server Virtualization

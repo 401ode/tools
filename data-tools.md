@@ -12,7 +12,6 @@
 - [Cookiecuttter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Uses [Cookiecutter](http://cookiecutter.readthedocs.org/en/latest/installation.html) to set up a nice, version-controlled data analysis directory for tracking your whole project. 
 - [Dask](https://dask.pydata.org/en/latest/) - Rather than load your enormous Pandas Dataframe into memory, Dask takes kind of a streaming approach to process iteratively but more efficiently for large datasets. 
 
-
 ## Python Tutorials
 
 - While we may compile our own list at some point, [this](https://nealcaren.github.io/python-tutorials/) is a fantastic compendium of available Python data-science tutorials.
@@ -69,4 +68,6 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 ## Text / Document Manipulation Tools
 
 - [Pandoc](http://www.pandoc.org) - Amazing command line tool for converting documents between many different formats. For example, if you want to change a Word doc to a markdown file, you would run `pandoc -f docx -t markdown -o outputmarkdownfile.md sourcedocument.docx`.
-- [Tabula](https://tabula.technology/) - Amazing tool for extracting tabular data out of PDFs. Works like a charm, pretty much every time. 
+- [Camelot](https://github.com/socialcopsdev/camelot) - A Python-based PDF table extraction tool. Pretty slick! 
+- [Excalibur] - A web interface for Camelot.
+- [Tabula](https://tabula.technology/) - Amazing tool for extracting tabular data out of PDFs. Works like a charm, pretty much every time.
