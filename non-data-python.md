@@ -1,6 +1,8 @@
 # Non Data-Related Python Stuff
 
-It's no secret that one of the writers (@bmcguirk) of this repository likes [Python](http://www.python.org). He wants you to, as well, because it has actively improved his life since he started learning it. We also need more people in State government fluent in this kind of thing. 
+It's no secret that one of the writers (@bmcguirk) of this repository really likes [Python](http://www.python.org). He wants you to, as well, because it has improved his life since he started learning it. We also need more people in State government fluent in this kind of thing.
+
+To get started, we recommend the [Anaconda distribution](https://www.anaconda.com/distribution/) of Python. It's pre-packed with 1,400+  great modules that are pre-compiled and pre-configured for your operating system. These modules are geared towards doing science in Python, but we think it's worth it to get the full kit and caboodle. So what if you never use [Astropy](http://www.astropy.org/) in your day-to-day work for the State. There are still hundreds of useful modules in there.
 
 ## Training
 
@@ -37,7 +39,14 @@ for link in odetoolsoup.find_all('a'):
 
 ## Image Manipulation
 
+### Image Manipulation Modules
+
 - [`pillow`](https://pillow.readthedocs.io/en/5.2.x/) - A fork of an old-school, but incredibly powerful, project called Python Imaging Library or PIL, this is much easier to use and just as powerful.
+- [OpenCV for Python](https://docs.opencv.org/3.3.0/d0/de3/tutorial_py_intro.html) - An old-school, but incrediby powerful, "Computer Vision" system. It takes a bit of work to get it installed on Windows ([see this guide])(https://www.learnopencv.com/install-opencv3-on-windows/), but then it offers some very powerful ways to get your computer to "see." 
+
+### Image Manipulation Guides
+
+- [Creating GIFS with OpenCV](https://www.pyimagesearch.com/2018/11/05/creating-gifs-with-opencv/) - a tongue-in-cheek guide/tutorial, but teaches some very cool techniques for image manipulation and creation. 
 
 ## Cool Built-In Modules
 
