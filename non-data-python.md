@@ -46,6 +46,10 @@ for link in odetoolsoup.find_all('a'):
 - [`random`](https://docs.python.org/3/library/random.html) - "This module implements pseudo-random number generators for various distributions." They note, however, that "the pseudo-random generators of this module should not be used for security purposes. For security or cryptographic uses, see the [`secrets`](https://docs.python.org/3/library/secrets.html#module-secrets) module."
 
 
+## Distribution
+
+- [Making a PEX from a Python Script](https://peterdemin.github.io/script-to-pex.html) - Lovely guide for getting around the "that script is great but I don't have python installed on my computer" issue. Copiling a PEX will take all the dependencies, the Python engine, etc. and pack it into a one-shot executable file. 
+
 ## Reference
 
 - [strftime.org](http://strftime.org/) - A handy little site for getting you exactly what you need. In this instance, a reminder of how to format the % sign and a bunch of letters to generate a date in the proper format. For example, `%Y-%m-%d`, in the right command, will generate `2018-07-24`.
