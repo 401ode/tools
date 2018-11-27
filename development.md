@@ -7,6 +7,7 @@ Some of the tools in the [DevOps](devops.md) page are obviously development tool
 - [Sublime Text 3](https://www.sublimetext.com/3) - For ODE's money, the best text editor in the world.
 - [Package Control](https://packagecontrol.io/) - a HUGE ecosystem of plugins for Sublime Text. One of the principal reasons to use Sublime.
 - [Visual Studio Code](https://code.visualstudio.com/) - unbelievably, an **OPEN-SOURCE MICROSOFT PRODUCT**. Not surprisingly, it's therefore a Microsoft product that doesn't actually suck. Also a huge ecosystem of plugins for everything imaginable.
+- [Coder.com](https://coder.com/) - Visual Studio Code, but hosted on the web and in your browser. Very generous free plan.
 
 ## Database
 
@@ -21,4 +22,4 @@ Some of the tools in the [DevOps](devops.md) page are obviously development tool
 ## Specialty
 
 - [Expresso](http://www.ultrapico.com/) - We (maybe) all know that regular expressions are incredibly powerful and **fast** tools for finding things in text. They're also difficult to master. That's why Expresso is great, because it has a GUI to help you construct the right RegEx to filter/find exactly what you want. It's amazing that no other tool online or offline that I've found does this quite as well. It also has pre-built "formulas," like the RegEx for finding Zip Codes. `(?<Zip>\d{5})-(?<Sub>\d{4})`, turns out.
-- [Regex101](https://regex101.com/) - A site that does a lot of what Expresso does. Has a handy quick reference guide in the bottom right. Put your regex in the top using the symbols in the quick reference guide, and paste in the data you want to search in to see what would come up using your RegEx expression. Pretty slick. 
+- [Regex101](https://regex101.com/) - A site that does a lot of what Expresso does. Has a handy quick reference guide in the bottom right. Put your regex in the top using the symbols in the quick reference guide, and paste in the data you want to search in to see what would come up using your RegEx expression. Pretty slick.
