@@ -1,7 +1,8 @@
 # Tools
+
 A collection of useful things we either use or might use in the future.
 
-PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee. 
+PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee.
 
 - [Data](data-tools.md)
 - [Development/Programming](Development.md)
@@ -20,3 +21,4 @@ PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee.
 - [Writing](writing.md)
 - [Training and Education](training.md)
 - [Principles and Methodologies](principles-methodologies.md)
+- [Chrome Extensions](chrome-extensions.md)
