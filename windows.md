@@ -6,7 +6,7 @@
 ## Command Line - `cmd` and `Powershell`
 
 - `set` - "Display, set, or remove CMD environment variables. Changes made with SET will remain only for the duration of the current CMD session." Useful for seeing system environment variables.
-- `Get-ADUser` - Powershell command to get an Active Directory user. Requires [Active Directory module](https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps).
+- `Get-ADUser` - Powershell command to get an Active Directory user. Requires [Active Directory module](https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps), which you can [download here](https://www.microsoft.com/en-us/download/details.aspx?id=7887).
 
 
 # Office Tools and Integrations
