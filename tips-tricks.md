@@ -35,6 +35,8 @@ Not surprisingly, `find` is the most powerful command to find stuff in Linux. Go
 - `find . -type d` - looks in the current directory ( represented by `.`) and finds things of type `d`, which are directories. 
 - `find . -name blah` - looks in the current directory for files named blah.
 
+- `du -hs * | sort -h` - `du -hs *` provides a `d`isk `u`sage summary, and the `-h` switch makes it `h`uman readable, while the `-s` switch provides a summary. If you don't add the `*` then it just summarizes the directory you're in with no detail by sub-directory. The pipe (`|`) into the `sort` command will arrange the results of `du` by how large each directory is. 
+
 #### Grep(ping)
 `grep` is one of the most powerfully badass commands in the world. Literally books have been written about it. But basically it will look, recursively if you want it to, into all the files in a given directory for some Regular Expression (see below) pattern that you define. So if you want to see every `.log` file that has `error` in it, you would run `grep "error" *.log`. Running that in this directory gets you this:
 
