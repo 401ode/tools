@@ -62,3 +62,5 @@ for link in odetoolsoup.find_all('a'):
 ## Reference
 
 - [strftime.org](http://strftime.org/) - A handy little site for getting you exactly what you need. In this instance, a reminder of how to format the % sign and a bunch of letters to generate a date in the proper format. For example, `%Y-%m-%d`, in the right command, will generate `2018-07-24`.
+- [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/) - Holy moly, comprehsnive is right. [Here's](https://github.com/gto76/python-cheatsheet) the link to the Github Repo.
+
