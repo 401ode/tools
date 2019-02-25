@@ -63,4 +63,8 @@ user@pico-2018-shell-2:/problems/strings_2_b7404a3aee308619cb2ba79677989960$
 - `$` - End of a line
 - `\s` - A Whitespace character. 
 
+## Networking 
+
+- [ipify](https://ipify.org) is an easy, API-accessible way of figuring out what your external IP address is. So, in Powershell: `Invoke-WebRequest "https://api.ipify.org?format=json" -UseBasicParsing`. Bash/ZSH version: `wget https://api.ipify.org?format=json`. 
+
 **More to come.**
