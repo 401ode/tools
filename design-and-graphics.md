@@ -16,6 +16,7 @@
 
 ## Prototyping
 
+- [Adobe XD](https://www.adobe.com/products/xd.html) - Finally available for all editions of Windows 10, this is pretty legit. I can't believe Adobe is giving it away for free. 
 - [Canva](https://www.canva.com) - Collaborative group desgin and brand editor.
 - [MockFlow](https://mockflow.com) - Pretty easy to use wireframing/prototyping tool. Good if limited free plan (only 3 mockups allowed). 
 - [Figma](https://www.figma.com) - Doesn't have UI components built-in like MockFlow, but for making quick drawings, sharing them with team members, and having everything sync beautifully online/offline, it's really pretty good. 
