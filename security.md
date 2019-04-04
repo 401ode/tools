@@ -10,6 +10,7 @@
 - [LastPass](https://www.lastpass.com)
 - [Firefox Lockbox](https://testpilot.firefox.com/experiments/firefox-lockbox)
 - [1Password](https://1password.com)
+- [Passbolt](https://www.passbolt.com/) - Built for teams. Open source. Looks pretty solid.
 
 ## CTF
 
