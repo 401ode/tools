@@ -4,9 +4,11 @@ Some of the tools in the [DevOps](devops.md) page are obviously development tool
 
 ## Text Editors
 
-- [Sublime Text 3](https://www.sublimetext.com/3) - For ODE's money, the best text editor in the world.
-- [Package Control](https://packagecontrol.io/) - a HUGE ecosystem of plugins for Sublime Text. One of the principal reasons to use Sublime.
-- [Visual Studio Code](https://code.visualstudio.com/) - unbelievably, an **OPEN-SOURCE MICROSOFT PRODUCT**. Not surprisingly, it's therefore a Microsoft product that doesn't actually suck. Also a huge ecosystem of plugins for everything imaginable.
+- [Visual Studio Code](https://code.visualstudio.com/) - unbelievably, an **OPEN-SOURCE MICROSOFT PRODUCT**. Not surprisingly, it's therefore a Microsoft product that not only doesn't suck but is really pretty awesome. This has become many people's new go-to text editor. Available for Windows (of course), Mac, and Linux.
+- [VS Code Extension Marketplace](https://marketplace.visualstudio.com/vscode) - You name it, there's probably an extension for it. Want to Lint HTML? PHP? Python? Connect to an FTP server? All there.
+- [Vim](https://www.vim.org/) - The OG text editor. Many hardcore developers will use nothing else. The learning curve is excrutiatingly steep (you use `H`, `J`, `K`, and `L` to move around, for instance), but it does inculcate an incredibly kind of efficiency. Check out the [Interactive VIM Tutorial](https://www.openvim.com/) to get a guided tour. Also, [this article](https://dn.ht/intermediate-vim/) is a good guide to 'Intermediate VIM.'
+- [Sublime Text 3](https://www.sublimetext.com/3) - Formerly the best text editor in the world. Possibly supplanted by .
+- [Package Control](https://packagecontrol.io/) - a HUGE ecosystem of plugins for Sublime Text. One of the principal reasons to use Sublime, but has largely been supplanted by the VS Code ecosystem.
 - [Coder.com](https://coder.com/) - Visual Studio Code, but hosted on the web and in your browser. Very generous free plan.
 
 ## Database

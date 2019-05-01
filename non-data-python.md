@@ -11,7 +11,7 @@ To get started, we recommend the [Anaconda distribution](https://www.anaconda.co
 ## Web / HTML
 
 - [`BeautifulSoup`](https://www.crummy.com/software/BeautifulSoup/) - HTML Parsing made super easy. But it needs to be fed HTML. You could use Python's built-in `urllib` or `httplib`, but what you really want to use is...
-- [`requests`](http://docs.python-requests.org/en/master/), which describes itself as "HTTP for Humans." From like 8 lines of code to go grab the content of a website, you just `import requests` and then `requests.get('https://github.com/401ode/tools`. Now the whole content of that request is an a Pythonic object, which you can then feed to BeautifulSoup to parse and do whatever you want with. Like if you want to get all the links out of a given page, you just do: 
+- [`requests`](http://docs.python-requests.org/en/master/), which describes itself as "HTTP for Humans." From like 8 lines of code to go grab the content of a website, you just `import requests` and then `requests.get('https://github.com/401ode/tools`. Now the whole content of that request is an a Pythonic object, which you can then feed to BeautifulSoup to parse and do whatever you want with. Like if you want to get all the links out of a given page, you just do:
 
 ```python
 import requests
@@ -36,31 +36,32 @@ for link in odetoolsoup.find_all('a'):
 - [`black`](https://github.com/ambv/black) is an extremely-opinionated code formatter. To quote the project's site, "*Black* reformats entire files in place. It is not configurable. It doesn’t take previous formatting into account." But it's actually got a great aesthetic taste. Worth your time. Also has plugins to autoformat your code in a bunch of different editors.
 - [`iSort`](https://pypi.org/project/isort/) - Will intelligently and elegantly sort your module imports at the top of your .py file. Compatible with Black.
 
-
 ## Image Manipulation
 
 ### Image Manipulation Modules
 
 - [`pillow`](https://pillow.readthedocs.io/en/5.2.x/) - A fork of an old-school, but incredibly powerful, project called Python Imaging Library or PIL, this is much easier to use and just as powerful.
-- [OpenCV for Python](https://docs.opencv.org/3.3.0/d0/de3/tutorial_py_intro.html) - An old-school, but incrediby powerful, "Computer Vision" system. It takes a bit of work to get it installed on Windows ([see this guide])(https://www.learnopencv.com/install-opencv3-on-windows/), but then it offers some very powerful ways to get your computer to "see." 
+- [OpenCV for Python](https://docs.opencv.org/3.3.0/d0/de3/tutorial_py_intro.html) - An old-school, but incrediby powerful, "Computer Vision" system. It takes a bit of work to get it installed on Windows ([see this guide])(https://www.learnopencv.com/install-opencv3-on-windows/), but then it offers some very powerful ways to get your computer to "see."
 
 ### Image Manipulation Guides
 
-- [Creating GIFS with OpenCV](https://www.pyimagesearch.com/2018/11/05/creating-gifs-with-opencv/) - a tongue-in-cheek guide/tutorial, but teaches some very cool techniques for image manipulation and creation. 
+- [Creating GIFS with OpenCV](https://www.pyimagesearch.com/2018/11/05/creating-gifs-with-opencv/) - a tongue-in-cheek guide/tutorial, but teaches some very cool techniques for image manipulation and creation.
 
 ## Cool Built-In Modules
 
-- [`re`](https://docs.python.org/3/library/re.html) - Excellent and flexible use of regular expressions. 
+- [`re`](https://docs.python.org/3/library/re.html) - Excellent and flexible use of regular expressions.
 - [`collections`](https://docs.python.org/3/library/collections.html) - A bunch of different collectio objects. New favorite one is [Counter](https://docs.python.org/3/library/collections.html#collections.Counter), where you can feed in elements and it'll keep track of how frequently they are used.
 - [`random`](https://docs.python.org/3/library/random.html) - "This module implements pseudo-random number generators for various distributions." They note, however, that "the pseudo-random generators of this module should not be used for security purposes. For security or cryptographic uses, see the [`secrets`](https://docs.python.org/3/library/secrets.html#module-secrets) module."
 
-
 ## Distribution
 
-- [Making a PEX from a Python Script](https://peterdemin.github.io/script-to-pex.html) - Lovely guide for getting around the "that script is great but I don't have python installed on my computer" issue. Copiling a PEX will take all the dependencies, the Python engine, etc. and pack it into a one-shot executable file. 
+- [Making a PEX from a Python Script](https://peterdemin.github.io/script-to-pex.html) - Lovely guide for getting around the "that script is great but I don't have python installed on my computer" issue. Copiling a PEX will take all the dependencies, the Python engine, etc. and pack it into a one-shot executable file.
 
 ## Reference
 
 - [strftime.org](http://strftime.org/) - A handy little site for getting you exactly what you need. In this instance, a reminder of how to format the % sign and a bunch of letters to generate a date in the proper format. For example, `%Y-%m-%d`, in the right command, will generate `2018-07-24`.
 - [Comprehensive Python Cheat Sheet](https://gto76.github.io/python-cheatsheet/) - Holy moly, comprehsnive is right. [Here's](https://github.com/gto76/python-cheatsheet) the link to the Github Repo.
 
+## Testing
+
+- [Hypothesis](https://hypothesis.readthedocs.io/en/latest/) - "Hypothesis is a Python library for creating unit tests which are simpler to write and more powerful when run, finding edge cases in your code you wouldn’t have thought to look for. It is stable, powerful and easy to add to any existing test suite... It works by generating arbitrary data matching your specification and checking that your guarantee still holds in that case. If it finds an example where it doesn’t, it takes that example and cuts it down to size, simplifying it until it finds a much smaller example that still causes the problem. It then saves that example for later, so that once it has found a problem with your code it will not forget it in the future." Very cool.
