@@ -47,13 +47,13 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 
 - [TensorFlow](https://www.tensorflow.org/) - When robots take over the world, this will be the core of their DNA. TensorFlow is the principal Google Artificial Intelligence / Machine Learning library. They open-sourced it a few years ago. It's generally considered the most powerful in the world. There are APIs for Python and tons of other languages now.
 - [Keras](https://keras.io/) - An overall neural network API, but basically it makes interacting with TensorFlow way easier. See this nice [DataCamp Tutorial](https://www.datacamp.com/community/tutorials/deep-learning-python).
-- [Setting up Python for Machine Learning on Window](https://realpython.com/python-windows-machine-learning-setup/) - a great [RealPython](https://realpython.com/) article that is exactly what the title describes.
+- [Setting up Python for Machine Learning on Windows](https://realpython.com/python-windows-machine-learning-setup/) - a great [RealPython](https://realpython.com/) article that is exactly what the title describes.
 - [fastText - Facebook's Text Classification and Representation Learning](https://fasttext.cc/) - "The goal of text classification is to assign documents (such as emails, posts, text messages, product reviews, etc...) to one or multiple categories. Such categories can be review scores, spam v.s. non-spam, or the language in which the document was typed. Nowadays, the dominant approach to build such classifiers is machine learning, that is learning classification rules from examples. In order to build such classifiers, we need labeled data, which consists of documents and their corresponding categories (or tags, or labels)." This module
 
 ## Data Mapping
 
 - [YWorks](https://www.yworks.com/products/yed)
-- [The Brain](http://www.thebrain.com/)
+- [The Brain](http://www.thebrain.com/) - Like a Dumbledorean Pensieve, but digital.
 - [Orange](https://orange.biolab.si/)
 - [KNIME](https://www.knime.com/) - An open-source-based GUI for fairly sophisticated data manipulation, processing, and visualization. And it's even approved for production usage by State security staff.
 
