@@ -21,6 +21,12 @@ Some of the tools in the [DevOps](devops.md) page are obviously development tool
 - [Infer](https://fbinfer.com/) - I know we have some Java and some C and some C# developers in the State. Infer could be helpful. Here's how it works: "if you give Infer some Java or C/C++/Objective-C code it produces a list of potential bugs. Anyone can use Infer to intercept critical bugs before they have shipped to users, and help prevent crashes or poor performance." From Facebook.
 - [Pyre](https://pyre-check.org/) - Also from Facebook, a type-checker for Python. Method says it's going to kick back an `int`, but it kicks back a `str` instead? Pyre will tell you this before you try to use it somewhere.
 
+## API Design
+
+- [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md) - The homepage for /about the OpenAPI standard, which standardizes and helps automate the design of modern APIs.
+- [OpenAPI Tools](https://openapi.tools/) - A compendium of tools to assist in the construction of modern APIs along the OpenAPI standard.
+- [Stoplight Studio](https://stoplight.io/studio/) - A GUI for designign open API specs.
+
 ## Specialty
 
 - [Expresso](http://www.ultrapico.com/) - We (maybe) all know that regular expressions are incredibly powerful and **fast** tools for finding things in text. They're also difficult to master. That's why Expresso is great, because it has a GUI to help you construct the right RegEx to filter/find exactly what you want. It's amazing that no other tool online or offline that I've found does this quite as well. It also has pre-built "formulas," like the RegEx for finding Zip Codes. `(?<Zip>\d{5})-(?<Sub>\d{4})`, turns out.
