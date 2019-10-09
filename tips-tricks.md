@@ -73,6 +73,8 @@ user@pico-2018-shell-2:/problems/strings_2_b7404a3aee308619cb2ba79677989960$
 
 ## (Reg)ular (Ex)pressions (RegEx)
 
+To start to play around with Regular Expressions, [Regex101](https://regex101.com/) is a great place to start. The "Quick Reference" box in the bottom right is great. There's also a quiz!
+
 - `^` - Start of a line
 - `$` - End of a line
 - `\s` - A Whitespace character. 
