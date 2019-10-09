@@ -46,6 +46,20 @@ tips-tricks.md:`grep` is one of the most powerfully badass commands in the world
 
 ```
 
+##### Finding particular text in particular filetypes, recursively, using grep
+
+In the following example:
+- -r - turns on recursion
+- -i - means case-insensitive search
+- --include=[filename/type] - includes only files that meet that pattern, in this instance only text files.
+'searchterm' - obvious, but you don't need quotes around it.
+- ./ - means search only in this directory. 
+
+```bash
+grep -r -i--include=\*.txt 'searchterm' ./
+```
+
+
 #### Getting strings from dirty files
 
 [`strings`](https://linux.die.net/man/1/strings) is a nifty tool to read a file and spit out only the legible characters within. At least four of them in a row, followed by some unprintable character. Helps to cut the wheat from the chaff. Example from PicoCTF 2018:
