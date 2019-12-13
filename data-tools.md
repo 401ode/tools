@@ -168,3 +168,15 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 - [Camelot](https://github.com/socialcopsdev/camelot) - A Python-based PDF table extraction tool. Pretty slick!
 - [Excalibur] - A web interface for Camelot.
 - [Tabula](https://tabula.technology/) - Amazing tool for extracting tabular data out of PDFs. Works like a charm, pretty much every time.
+
+## Version Controlled Data
+
+[Dolt](https://www.dolthub.com/) - Git for Data
+[qri](https://qri.io/) - qri (“query”) is versioned, scriptable, exportable, collaborative datasets
+
+
+## Database Viewers
+- [Hedi](https://www.heidisql.com/)
+- [Postico](https://eggerapps.at/postico/)
+- [TablePlus](https://tableplus.com/)
+

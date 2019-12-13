@@ -3,6 +3,9 @@
 ## Integration
 
 - [Talend Enterprise Service Bus](https://www.talend.com/products/application-integration/data-services-platform/)
+- [PieSync](https://www.piesync.com/)
+- [Zapier](https://zapier.com/)
+
 
 ## Databases
 

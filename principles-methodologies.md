@@ -8,6 +8,7 @@ We could write a book. And many have. But in the meantime, know this: Agile is p
 
 TODO: Linkfest. Or a separate .md page just on Agile.
 
+-[Shape Up](https://basecamp.com/shapeup) - Basecamp's write up on agile development practices 
 
 
 ## Collaboration
@@ -15,6 +16,8 @@ TODO: Linkfest. Or a separate .md page just on Agile.
 ### Brainstorming, Idea Generation
 
 - [Liberating Structures](http://www.liberatingstructures.com/) - "a menu of thirty-three... Structures to replace or complement conventional practices. Liberating Structures used routinely make it possible to build the kind of organization that everybody wants. They are designed to include everyone in shaping next steps." Cool stuff. We should use this more often and in more contexts.
+
+- [Desgin Sprint](https://www.thesprintbook.com/how) - Great book that has defined a new practice.
 
 
 ## Software Design

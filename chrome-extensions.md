@@ -11,6 +11,7 @@ Starting with a general list of extensions and then we can categorize later.
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once. Can save 95%+ of your system memory. 
 - [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd) - Scraper gets data out of web pages and into spreadsheets. Select a table on a webpage, right-click, and select "Scrape Similar."
 - [Data-Miner](https://data-miner.io/) - Similar to the above, but maybe better. 
+- [Simple Scraper](https://simplescraper.io/) - Chrome extension that enables data extraction form websites
 - [Terms of Service; Didn't Read](https://tosdr.org/) - Gives you a summary of how sketchy-or-not the Terms of Service are for a given site. 
 - [Isometric Contributions](https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien) - Gives a very cool-looking graph of [GitHub](https://www.github.com) contributions. 
 - [Export for Trello](https://chrome.google.com/webstore/detail/export-for-trello/nhdelomnagopgaealggpgojkhcafhnin) - Take a [Trello](https://trello.com) board, export it to Excel.

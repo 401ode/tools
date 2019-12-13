@@ -15,8 +15,9 @@
 
 
 ## Cloud-Based Spreadsheet Tools
-- [Airtable](https://www.airtable.com)
+- [Airtable](https://www.airtable.com) - The Excel Killer! Great interface that is blurring the lines between sheet and relational database.
 - [Excel Online](https://office.live.com/start/Excel.aspx)
+- [Coda](https://coda.io) - Mix of a Word doc and spreadsheet on the web. Turns cells and words into fields!
 
 
 ## Other Project Management Platforms

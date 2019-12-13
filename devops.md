@@ -36,6 +36,7 @@
 - [Travis](https://travis-ci.org/)
 - [Jenkins](https://jenkins.io/)
 - [CircleCI](https://circleci.com/)
+- [Codecov](https://codecov.io/)
 
 ## Automated Testing
 
@@ -45,3 +46,7 @@
 ## Database Deployment Tools
 
 - [Flyway DB](https://flywaydb.org/)
+
+## SEO Tools
+
+- [Portent Blog](https://www.portent.com/blog/seo/insanely-large-list-seo-tools-useful-resources.htm) - Comprehensive list of SEO tools
