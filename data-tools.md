@@ -171,8 +171,8 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 
 ## Version Controlled Data
 
-[Dolt](https://www.dolthub.com/) - Git for Data
-[qri](https://qri.io/) - qri (“query”) is versioned, scriptable, exportable, collaborative datasets
+- [Dolt](https://www.dolthub.com/) - Git for Data
+- [qri](https://qri.io/) - qri (“query”) is versioned, scriptable, exportable, collaborative datasets
 
 
 ## Database Viewers
