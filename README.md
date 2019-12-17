@@ -9,6 +9,7 @@ PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee.
 - [Tips and Tricks](tips-tricks.md) - Like Linux Command line tricks, for starters.
 - [Non-Data Python](non-data-python.md)
 - [Application Frameworks](application-frameworks.md)
+- [Accessibility](accessibility.md)
 - [DevOps Tools](devops.md)
 - [Design and Graphics](design-and-graphics.md)
 - [Forms](forms.md)
@@ -18,7 +19,7 @@ PLEASE FORK AND CONTRIBUTE, particularly if you are an RI State Employee.
 - [Enterprise](enterprise.md) - needs a lot of work, this list.
 - [Cloud](cloud.md) - also needs a lot of work. Some overlap with Enterprise, of course.
 - [Windows](windows.md)
-- [Writing](writing.md)
+- [Storytelling](storytelling.md)
 - [Training and Education](training.md)
 - [Principles and Methodologies](principles-methodologies.md)
 - [Chrome Extensions](chrome-extensions.md)
