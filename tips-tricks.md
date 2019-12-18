@@ -18,11 +18,11 @@
 *[Source for the above.](https://stackoverflow.com/a/16687377/5000626)*
 
 ### Finding Stuff
+
 ### Where am I? 
 - `pwd` will tell you what directory you're currently in. 
 - `pushd` tells the operating system "Remember this directory. I'm going to want to come back here." Optionally, you could say `pushd ~` which would store the current directory location, and then take you to your home directory (`~`). 
 - `popd` will return you to the directory you just stored. 
-
 
 #### Files and Things
 If you're in a given directory, typing `ls` will give you a list of the non-hidden files in that directory. Hidden files, you say? What's this hacker stuff? Any file that starts with a `.` is a "hidden" file. In your home directory (get there by doing `cd $HOME` or `cd ~`), you may have a file called `.profile`. This stores a bunch of information about your user. Hidden files are everywhere. Things to keep in mind with `ls`: 
@@ -46,7 +46,7 @@ tips-tricks.md:`grep` is one of the most powerfully badass commands in the world
 
 ```
 
-##### Finding particular text in particular filetypes, recursively, using grep
+#### Finding particular text in particular filetypes, recursively, using grep
 
 In the following example:
 - -r - turns on recursion

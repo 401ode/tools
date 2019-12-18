@@ -1,6 +1,5 @@
 # Storytelling
 
-
 ## Writing
 
 - [Hemingway](http://beta.hemingwayapp.com/) - Analyzes your writing and makes suggestions for improvements.
@@ -8,7 +7,7 @@
 - [Quip](https://quip.com/) - Like GoogleDocs, but different.
 - [Coda](https://coda.io) - Also in Project Manage/Spreadsheet list but deserves a spot here as it like Quip turns words into fields!
 - [PenFlip](https://www.penflip.com/)
-- [Dropbox Paper](https://paper.dropbox.com/hackpad/) - Formerly HackPad
+- [Dropbox Paper](https://paper.dropbox.com/hackpad/) - Formerly HackPad. Now blocked by the State firewall. :\
 
 ## Presentations
 
@@ -20,5 +19,5 @@
 - [Prezi](https://prezi.com/) - Those PowerPoints that zoom
 
 
-##Fonts
+## Fonts
 - [Nerd Fonts](https://www.nerdfonts.com/)- Iconic font aggregator, collection, and patcher
