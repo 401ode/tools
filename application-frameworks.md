@@ -7,6 +7,8 @@ By dominant language:
 - [Django](https://www.djangoproject.com/) - Full featured Python-based framework. Batteries very muhc included. Instagram runs on it, for what that's worth.
 - [Flask](http://flask.pocoo.org/) - Flexible micro-framework.
 - [Pyramid](https://trypyramid.com/) - Haven't used it yet, but it might thread the needle between Flask's minimalism and Django's "batteries included" framework approach.
+- [Awesome ASGI Application Frameworks](https://github.com/florimondmanca/awesome-asgi#application-frameworks)
+- [Awesome Python - Web Frameworks](https://github.com/vinta/awesome-python#web-frameworks) - A great list of resources, overall, but this link is specifically for Application Frameworks. 
 
 ## Elm
 
@@ -16,7 +18,6 @@ By dominant language:
 
 Node sucks. I'm not even going to link to it.
 
-- [DADI](http://beta.dadi.tech/)
 - [Vue.js](https://vuejs.org/)
 - [REACT](https://reactjs.org/)
 
