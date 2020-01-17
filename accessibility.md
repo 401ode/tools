@@ -1,5 +1,4 @@
-# accessibility
-
+# Accessibility
 
 ## Web Accessibility
 
