@@ -56,7 +56,7 @@ In the following example:
 - ./ - means search only in this directory. 
 
 ```bash
-grep -r -i--include=\*.txt 'searchterm' ./
+grep -r -i --include=\*.txt 'searchterm' ./
 ```
 
 
