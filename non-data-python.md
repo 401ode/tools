@@ -6,6 +6,7 @@ To get started, we recommend the [Anaconda distribution](https://www.anaconda.co
 
 ## Training
 
+- [The Freaking NSA's Intro to Python Handbook!](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf) - The result of a [FOIA Request](https://twitter.com/chris_swenson/status/1225836060938125313). Just in case that link ever goes away, it's been uploaded to the [Internet Archive](https://archive.org/details/comp3321/page/n4/mode/2up).
 - [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - Really pretty comprehensive. Also difficult.
 
 ## Web / HTML
