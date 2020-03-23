@@ -9,16 +9,20 @@
 ## Stock Photos
 
 - [Unsplash](https://unsplash.com/) - "Beautiful, free photos. Gifted by the world’s most generous community of photographers."
+- [Pexels](https://www.pexels.com/) - Free stock photos & videos
 
 ## Vector Graphics
 
 - [Inkscape](https://inkscape.org/en/) - Imagine Adobe Illustrator if it were designed by Linux engineers. Again, ugly interface, but plenty of power.
+- [Undraw](https://undraw.co/) - A constantly updated design project with beautiful SVG images that you can use completely free and without attribution
+- [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
 
 ## Prototyping
 
-- [Adobe XD](https://www.adobe.com/products/xd.html) - Finally available for all editions of Windows 10, this is pretty legit. I can't believe Adobe is giving it away for free.
+- [Adobe XD](https://www.adobe.com/products/xd.html) - Finally available for all editions of Windows 10, this is pretty legit. I can't believe Adobe is giving it away for free. Update: Adobe is putting restrictions on free plan, like ending local storage in April 2020)
 - [Canva](https://www.canva.com) - Collaborative group design and brand editor.
 - [MockFlow](https://mockflow.com) - Pretty easy to use wireframing/prototyping tool. Good if limited free plan (only 3 mockups allowed).
+- [Mirro](https://miro.com/) - Online collaborative whiteboarding platform
 - [Overflow](https://overflow.io) - "User flows done right." [Here's an example.](https://overflow.io/s/9ST7SX/)
 - [Figma](https://www.figma.com) - Doesn't have UI components built-in like MockFlow, but for making quick drawings, sharing them with team members, and having everything sync beautifully online/offline, it's really pretty good.
 - [Pencil Project](https://pencil.evolus.vn/) - Undergoing a major overhaul to make it a more modern system. Supposedly quite robust.
