@@ -29,8 +29,13 @@
 - [Atomic](https://atomic.io)
 - [Sketch](https://www.sketch.com/) - macOS digital desgin toolkit with a strong plugin community. Probably the most popular thing on here.
 - [Zeplin](https://zeplin.io/) - Collaboration tool between designers and developers to share designs, assets, and measurements.
+- [Mural](https://mural.co/) - Digital workspace for visual collaboration.
+- [Notely](https://note.ly/) - Free sticky note application.
+- [Idea Flip](https://ideaflip.com/) - Web app for group brainstorms and individual ideas.
 
 Also of interest may be this [comparison from the Vox Product Team](https://product.voxmedia.com/2017/11/1/16562200/a-highly-subjective-guide-to-design-prototyping-tools) that's pretty useful.
+
+Additionally, Lucid Meeting has a [blog post](https://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings) that tests out and categories many of these design / collaboration tools.
 
 ## Flowcharts
 
