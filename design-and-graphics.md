@@ -9,24 +9,33 @@
 ## Stock Photos
 
 - [Unsplash](https://unsplash.com/) - "Beautiful, free photos. Gifted by the world’s most generous community of photographers."
+- [Pexels](https://www.pexels.com/) - Free stock photos & videos
 
 ## Vector Graphics
 
 - [Inkscape](https://inkscape.org/en/) - Imagine Adobe Illustrator if it were designed by Linux engineers. Again, ugly interface, but plenty of power.
+- [Undraw](https://undraw.co/) - A constantly updated design project with beautiful SVG images that you can use completely free and without attribution
+- [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library
 
 ## Prototyping
 
-- [Adobe XD](https://www.adobe.com/products/xd.html) - Finally available for all editions of Windows 10, this is pretty legit. I can't believe Adobe is giving it away for free.
+- [Adobe XD](https://www.adobe.com/products/xd.html) - Finally available for all editions of Windows 10, this is pretty legit. I can't believe Adobe is giving it away for free. Update: Adobe is putting restrictions on free plan, like ending local storage in April 2020)
 - [Canva](https://www.canva.com) - Collaborative group design and brand editor.
 - [MockFlow](https://mockflow.com) - Pretty easy to use wireframing/prototyping tool. Good if limited free plan (only 3 mockups allowed).
+- [Mirro](https://miro.com/) - Online collaborative whiteboarding platform
 - [Overflow](https://overflow.io) - "User flows done right." [Here's an example.](https://overflow.io/s/9ST7SX/)
 - [Figma](https://www.figma.com) - Doesn't have UI components built-in like MockFlow, but for making quick drawings, sharing them with team members, and having everything sync beautifully online/offline, it's really pretty good.
 - [Pencil Project](https://pencil.evolus.vn/) - Undergoing a major overhaul to make it a more modern system. Supposedly quite robust.
 - [Atomic](https://atomic.io)
 - [Sketch](https://www.sketch.com/) - macOS digital desgin toolkit with a strong plugin community. Probably the most popular thing on here.
 - [Zeplin](https://zeplin.io/) - Collaboration tool between designers and developers to share designs, assets, and measurements.
+- [Mural](https://mural.co/) - Digital workspace for visual collaboration.
+- [Notely](https://note.ly/) - Free sticky note application.
+- [Idea Flip](https://ideaflip.com/) - Web app for group brainstorms and individual ideas.
 
 Also of interest may be this [comparison from the Vox Product Team](https://product.voxmedia.com/2017/11/1/16562200/a-highly-subjective-guide-to-design-prototyping-tools) that's pretty useful.
+
+Additionally, Lucid Meeting has a [blog post](https://blog.lucidmeetings.com/blog/25-tools-for-online-brainstorming-and-decision-making-in-meetings) that tests out and categories many of these design / collaboration tools.
 
 ## Flowcharts
 
