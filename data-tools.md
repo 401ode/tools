@@ -3,7 +3,7 @@
 ## Python-based Tools
 
 - [Pandas](http://pandas.pydata.org/) - included with [Anaconda](https://www.continuum.io/downloads) distribution. Gold Standard for Data Analysis, Data Science.
-- TODO [Pandas Tutorial]
+- [Learn Pandas by Studying COVID-19 Data](https://www.fullstackpython.com/blog/learn-pandas-basic-commands-explore-covid-19-data.html) - Pretty self-explanatory, but a very nice walkthrough using an important datasource.
 - [Pandas Crosstab Explained](http://pbpython.com/pandas-crosstab.html) - A great reference article from [Practical Business Python](http://pbpython.com/) (an EXCELLENT site) on Panda's [Crosstab](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.crosstab.html) functionality. Basically if you want to take element A, and then find how many time instances of element B show up with it, Crosstab is perfect. Just one simple command. Really useful.
 - [Great list of Pandas Examples by Solution](http://www.pythonprogramming.in/pandas-examples.html) - Too many to list, really, but I'll try:
 
@@ -101,13 +101,14 @@
 ```
 
 - [RealPython Article on Pandas Optimizations](https://realpython.com/fast-flexible-pandas/) - Good overview of how to thing about how to optimize your work in Pandas.
-- [PythonSpeed Article on Using SQLite and Pandas Indices for Efficient Querying and Filtering](https://pythonspeed.com/articles/indexing-pandas-sqlite/) - TL;DR: SQLite is FAST and kind of awesome. In this instance, 50x faster than reading/querying a CSV that's too big to fit in memory. 
+- [PythonSpeed Article on Using SQLite and Pandas Indices for Efficient Querying and Filtering](https://pythonspeed.com/articles/indexing-pandas-sqlite/) - TL;DR: SQLite is FAST and kind of awesome. In this instance, 50x faster than reading/querying a CSV that's too big to fit in memory.
 - [MessyTables - "All Your Rows Are Belong To Us"](https://messytables.readthedocs.io/en/latest/) - "Tabular data as published on the web is often not well formatted and structured. Messytables tries to detect and fix errors in the data. Typical examples include: Finding the header of a table when there are explanations and text fragments in the first few rows of the table; Guessing the type of columns in CSV data; Guessing the format of a byte stream. This library provides data structures and some heuristics to fix these problems and read a wide number of different tabular abominations." **Pretty cool.**
 - [Article on 'Tidy Data' in Python](http://www.jeannicholashould.com/tidy-data-in-python.html) - Interesting thoughts on how to clean and structure data.
 - [Numba - The need for speed without bothering too much](https://nbviewer.jupyter.org/github/akittas/presentations/blob/master/pythess/numba/numba.ipynb?utm_source=newsletter_mailer&utm_medium=email&utm_campaign=weekly#The-need-for-speed-without-bothering-too-much:-An-introduction-to-numba) - These guys are genius. They basically made it super-simple to radically increase the speed of what you're doing in Pandas or Numpy arrays (which is what Pandas uses under the hood). Very excited about this. Basically if you tell it about a specific function or thing you're trying to do, it'll compile to low-level C-code. Some average improvements by adding **one line of code** are around **78 times faster.** Awesome.
 - [Cookiecuttter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Uses [Cookiecutter](http://cookiecutter.readthedocs.org/en/latest/installation.html) to set up a nice, version-controlled data analysis directory for tracking your whole project.
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Another cookiecutter data science setup that is getting a lot of buzz. Apparently great at setting up reusable data pipelines. Particularly cool is its ability to generate graphical diagrams of said pipelines.
 - [Dask](https://dask.pydata.org/en/latest/) - Rather than load your enormous Pandas Dataframe into memory, Dask takes kind of a streaming approach to process iteratively but more efficiently for large datasets.
+- [RapidFuzz](https://github.com/rhasspy/rapidfuzz) - Extremely fast Python package for comparing text similarity in various capacities. The classic example is comparing "BOS Celtics v. LA Lakers" and "Los Angeles Lakers and Boston Celtics"
 
 ## Python Tutorials
 
