@@ -83,4 +83,8 @@ To start to play around with Regular Expressions, [Regex101](https://regex101.co
 
 - [ipify](https://ipify.org) is an easy, API-accessible way of figuring out what your external IP address is. So, in Powershell: `Invoke-WebRequest "https://api.ipify.org?format=json" -UseBasicParsing`. Bash/ZSH version: `wget https://api.ipify.org?format=json`. 
 
+## Microsoft Office
+
+- So, there's a difference between having data in rows and columns and having a Table (note the capitalization). Tables are super-useful and we'll write more about them in the future, but in the meantime here's [how to turn off Table headers](https://support.office.com/en-us/article/turn-excel-table-headers-on-or-off-c91d1742-312c-4480-820f-cf4b534c8b3b).
+
 **More to come.**
