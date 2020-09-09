@@ -3,7 +3,7 @@
 ## General Resources
 
 - [Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide) - The title says it all, but it also provides intellectual guidance on how to resolve common data problems.
-- [PolicyViz](https://policyviz.com/) - "Helping you do a better job processing, analyzing, sharing, and presenting your data." 
+- [PolicyViz](https://policyviz.com/) - "Helping you do a better job processing, analyzing, sharing, and presenting your data." There's a podcast, and tons of guides on visualization, presentation, etc.
 
 ## Python-based Tools
 
