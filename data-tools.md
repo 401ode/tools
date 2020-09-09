@@ -1,5 +1,10 @@
 # Data Tools
 
+## General Resources
+
+- [Quartz Guide to Bad Data](https://github.com/Quartz/bad-data-guide) - The title says it all, but it also provides intellectual guidance on how to resolve common data problems.
+- [PolicyViz](https://policyviz.com/) - "Helping you do a better job processing, analyzing, sharing, and presenting your data." 
+
 ## Python-based Tools
 
 - [Pandas](http://pandas.pydata.org/) - included with [Anaconda](https://www.continuum.io/downloads) distribution. Gold Standard for Data Analysis, Data Science.
