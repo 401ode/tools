@@ -17,6 +17,7 @@
 - [Keynote](https://www.apple.com/keynote/) - Mac's version of PowerPoint
 - [Google Slides](https://www.google.com/slides/about/)
 - [Prezi](https://prezi.com/) - Those PowerPoints that zoom
+- [Presentation Zen](https://www.presentationzen.com/) - Main site of the author of the book of the same name. Essential reading and other content, including a few TED Talks.
 
 ## Project Sites
 - [Readymag](https://readymag.com/) - Project based site for storytelling
