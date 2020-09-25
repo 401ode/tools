@@ -58,7 +58,9 @@ In the following example:
 ```bash
 grep -r -i --include=\*.txt 'searchterm' ./
 ```
+#### Finding non-unicode characters in a csv
 
+This regular expression has come in handy a ton of times when looking for some non-UTF8 character in a large CSV: `[^\x00-\x7f]`. Works like a charm in [Visual Studio Code](http://code.visualstudio.com/). 
 
 #### Getting strings from dirty files
 
