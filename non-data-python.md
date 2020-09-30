@@ -47,6 +47,7 @@ for link in odetoolsoup.find_all('a'):
 ### Image Manipulation Guides
 
 - [Creating GIFS with OpenCV](https://www.pyimagesearch.com/2018/11/05/creating-gifs-with-opencv/) - a tongue-in-cheek guide/tutorial, but teaches some very cool techniques for image manipulation and creation.
+- [Old Photo Restoration using PyTorch (an ultra-fast machine learning module)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Unbelievable: <img src="https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life/raw/master/imgs/0001.jpg" />
 
 ## Cool Built-In Modules
 
