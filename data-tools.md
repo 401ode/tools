@@ -141,6 +141,7 @@ We'll be migrating in some from this [list (Google Doc)](https://docs.google.com
 - [Seaborn](https://seaborn.pydata.org/) - Makes opinionated decisions for you on MatPlotLib settings, makes the MatPlotLib API much easier to use.
 - [Dash](https://plot.ly/products/dash/) - For easy, interactive visualizations. Very cool.
 - [Apache Superset](https://github.com/apache/incubator-superset) - Gorgeous-looking, open-source data visualization and dashboard tool. Uses Python library [SQLAlchemy](http://docs.sqlalchemy.org/en/rel_1_0/core/engines.html) under the hood, allowing it to connect to an enormous number of database engines.
+- [University of Potsdam Summer Class on Information Visualization Using Python](https://infovis.fh-potsdam.de/tutorials/) - Well, that about says it. But it looks like a great, comprehensive course. Also, it's *free*.
 
 ## ~~Robots~~ Machine Learning
 
