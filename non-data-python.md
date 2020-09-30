@@ -72,3 +72,7 @@ for link in odetoolsoup.find_all('a'):
 > Mutation testing is a way to be reasonably certain your code actually tests the full behavior of your code. Not just touches all lines like a coverage report will tell you, but actually tests all behavior, and all weird edge cases. It does this by changing the code in one place at a time, as subtly as possible, and running the test suite. If the test suite succeeds it counts as a failure, because it could change the code and your tests are blissfully unaware that anything is amiss.
 
 - [PyTest](https://docs.pytest.org/en/stable/contents.html) - The OG python testing suite. It's so the OG that both Hypothesis and Mutmut basically build on top of it.
+
+## Random
+
+- [PyBpy(https://github.com/Baekalfen/PyBoy) - A GameBoy emulator. Written in Python. Amazing. 
