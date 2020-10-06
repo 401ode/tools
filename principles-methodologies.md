@@ -1,5 +1,14 @@
 # Principles and Methodologies
 
+## Strategy
+
+### Wardley Maps
+
+- [The Book from Simon Wardley (free)](https://medium.com/wardleymaps). Start with [Chapter 1 - On Being Lost](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec). 
+- [Wikipedia Entry on Wardley Maps](https://en.wikipedia.org/wiki/Wardley_map)
+- [The Video Introduction](https://www.youtube.com/watch?v=NnFeIt-uaEc) - This is a semi-famous presentation from Simon Wardley where he lays out the principles of his mapping system. 
+- [A Tool for Making Wardley Maps](https://atlas2.wardleymaps.com/) called "Atlas2." Here's the [GitHub Repo](https://github.com/LeadingEdgeForum/atlas2).
+
 ## Project Management
 
 ### Agile
