@@ -130,6 +130,8 @@
 
 We'll be migrating in some from this [list (Google Doc)](https://docs.google.com/spreadsheets/d/1zkDKbi144mrDl7NSPMTRKyjdX8qfiL8MSlUw2z_dEIE/edit?usp=drivesdk).
 
+- [FLourish](https://flourish.studio/) - Web-based data visualization tool that makes it easy to do things like [bar chart races](https://flourish.studio/visualisations/bar-chart-race/?utm_source=showcase&utm_campaign=visualisation/3835611). 
+
 ## Generic BI/Reporting Tools
 
 - [Microsoft PowerBI](https://powerbi.microsoft.com) - For a Microsoft tool, this is surprisingly good, stable, extendable, and easy to use. I can't believe I just wrote that.
