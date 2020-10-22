@@ -12,6 +12,8 @@
 ## Presentations
 
 - [Slides.com](https://slides.com/) - Great browser based tool for creating slides that can be embeded or code exported
+- [Pitch](https://pitch.com/) - Collaboration based presentation software
+- [Slide Beam](https://slidebean.com/) - Web slide creator with features include many templates, collaboration, slide analytics and "AI" editor
 - [Ready Mag](https://readymag.com/) - Browserbased desgin tool to create splash pages or "scrollytelling stories"
 - [VISME](https://www.visme.co/presentation-software/)
 - [Keynote](https://www.apple.com/keynote/) - Mac's version of PowerPoint
